@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-from cotd import __version__
+from conman import __version__
 
 setup(
     name='conman',
